@@ -1,4 +1,4 @@
-### Index
+## Index
 
 * [Ansible](#ansible)
 * [APL](#apl)
